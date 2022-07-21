@@ -1,4 +1,14 @@
+<!--
 ### Hi there 👋
+-->
+### こんにちは👋 小山田純です🍅
+- Linux使い🐧
+- オープンソース教の信者
+- ソフトウェアの翻訳やってます🌐
+
+ーーーーーーーーーーーーーーーーーーー
+- [ホームページはこちら](https://www.oyajun.com)
+- oyamadajun@outlook.jp
 
 <!--
 **oyajun/oyajun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
