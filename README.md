@@ -8,7 +8,7 @@
 最近は、Rust Flutter mbed
 
 ーーーーーーーーーーーーーーーーーーー
-- [ホームページはこちら](https://www.oyajun.com)
+- [ホームページはこちら](https://oyajun.com)
 - oyamadajun@outlook.jp
 
 <!--
