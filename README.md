@@ -5,7 +5,7 @@
 - Linux💗
 - オープンソース💗
 
-最近は、Rust Flutter mbed
+iOSアプリが作るために、macがほしい。
 
 ーーーーーーーーーーーーーーーーーーー
 - [ホームページはこちら](https://oyajun.com)
