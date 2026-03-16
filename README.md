@@ -4,9 +4,7 @@
 ### 小山田純です🍅
 - Linux💗
 - オープンソース💗
-
-iOSアプリを作るために、macがほしい。
-
+- GNOME Japanese Translation Team コーディネーター
 ーーーーーーーーーーーーーーーーーーー
 - [ホームページはこちら](https://oyajun.com)
 - oyamadajun@outlook.jp
