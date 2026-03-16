@@ -4,7 +4,8 @@
 ### 小山田純です🍅
 - Linux💗
 - オープンソース💗
-- GNOME Japanese Translation Team コーディネーター  
+- GNOME Japanese Translation Team コーディネーター
+
 ーーーーーーーーーーーーーーーーーーー
 - [ホームページはこちら](https://oyajun.com)
 - oyamadajun@outlook.jp
